@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//j-unit/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"dg-permalink":"category/2022/mynote/","permalink":"/category/2022/mynote/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
