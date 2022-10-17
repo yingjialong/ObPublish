@@ -3,4 +3,5 @@
 ---
 
 [[卡片盒/JUnit注意事项|JUnit注意事项]]
-[[卡片盒/JUnitAbcd|JUnitAbcd]]
+[[JUnitAbcd|JUnitAbcd]]
+[[Abcd1234|Abcd1234]]
