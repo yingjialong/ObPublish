@@ -5,3 +5,4 @@
 [[卡片盒/JUnit注意事项|JUnit注意事项]]
 [[JUnitAbcd|JUnitAbcd]]
 [[Abcd1234|Abcd1234]]
+[[中文地址链接|中文地址链接]]
