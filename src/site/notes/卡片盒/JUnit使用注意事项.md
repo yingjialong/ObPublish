@@ -20,5 +20,5 @@
 
 ---
 *citation*:: 
-*refrence*:: 
+*reference*:: 
 *relation*:: 
