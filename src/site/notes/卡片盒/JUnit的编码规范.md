@@ -32,5 +32,5 @@
 
 ---
 *citation*:: 
-*refrence*:: 
+*reference*:: 
 *relation*:: 
